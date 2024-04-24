@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+.container {
+    display: flex;
+    padding: 5%;
+    background-color: darkgrey;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 10%;
+}
